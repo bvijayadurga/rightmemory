@@ -1,2 +1,2 @@
 # rightmemory
-rightmemory repo
+rightmemory repo hello world
